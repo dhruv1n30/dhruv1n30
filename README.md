@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhruv1n30
 - 👀 I’m interested in machine learning and web development.
-- 🌱 I’m currently learning python for data science.
+- 🌱 I’m currently learning python for machine learning..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
